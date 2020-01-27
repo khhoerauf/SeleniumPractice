@@ -65,6 +65,6 @@ namespace SeleniumPractice
                                   "Average capacity : " + costAverage + " from the " + i + " pages");
 
             Console.WriteLine(finalCarList.Capacity);
-        }   
+        }     
     }
 }
